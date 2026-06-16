@@ -144,11 +144,7 @@ Hardware Integration
 
 
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/peter2malhado/peter2malhado/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
