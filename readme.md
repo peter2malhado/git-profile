@@ -25,14 +25,14 @@ Focus:
   - Embedded Systems
 ```
 
-* 🎓 Studying Computer Engineering
+
 * 🤖 Developing an Offline AI Assistant as a major project
 * 💻 Building applications with .NET MAUI and C#
 * 🧠 Exploring AI Agents and Local LLMs
 * 🔧 Passionate about Raspberry Pi and Arduino
 * 🚗 Learning mechanics through personal projects
 * 🎾 Tennis and Padel player
-* 🚀 Interested in the future of AI-powered operating systems
+
 
 ---
 
@@ -51,7 +51,7 @@ Focus:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/dotnet/maui/main/.github/images/maui.png" width="50"/>
+<img src="https://toppng.com/uploads/preview/arch-linux-logo-arch-linux-11562915682mxfu99tp6t.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50"/>
 </p>
@@ -60,8 +60,6 @@ Focus:
 
 <p align="left">
   <img src="https://ollama.com/public/ollama.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/ggerganov/llama.cpp/master/examples/server/public/favicon.ico" width="50"/>
-  <img src="https://onnxruntime.ai/images/logo.svg" width="50"/>
 </p>
 
 ### Hardware & Embedded
@@ -77,6 +75,7 @@ Focus:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
+  <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="JetBrains Rider" width="50"/>
 </p>
 
 ---
@@ -90,20 +89,10 @@ Offline AI Assistant
 .NET MAUI
 Local LLMs
 llama.cpp
-Voice Commands
+
 AI Tools
 Autonomous Actions
 Windows + macOS
-```
-
-### 🖥️ Smart Workspace
-
-```text
-AI-Powered Desktop Workspace
-File Management
-Terminal Integration
-Workspace Automation
-Productivity Tools
 ```
 
 ### 🔧 Embedded AI Experiments
@@ -135,9 +124,7 @@ Hardware Integration
 
 * 🚀 Complete my AI Assistant project
 * 🧠 Build autonomous AI agents
-* 💻 Become an expert in .NET MAUI
 * 🔧 Create AI-powered hardware projects
-* 🎓 Finish Computer Engineering
 * 🌍 Contribute to open-source projects
 
 ---
@@ -145,28 +132,22 @@ Hardware Integration
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=peter2malhado&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=peter2malhado&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter2malhado&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/peter2malhado/peter2malhado/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
